@@ -38,13 +38,13 @@ A building with 9 floors has 2 fast (accelerating) elevators that stop at all th
 
 ### How to set up Fast-Downward Planner
 ##### Install Dependencies
-> To obtain and build the planner, you will need the Git version control system, a C++11 compiler, CMake and GNU make. To run the planner, you will also need Python >= 3.6
+> To obtain and build the planner, you will need the Git version control system, a C++11 compiler, CMake and GNU make. To run the planner, you will also need Python (>= 3.6) installed on your machine.
 ```
 sudo apt install cmake g++ git make python3
 ```
 ##### Obtaining the code
 ```
-git clone https://github.com/aibasel/downward.git DIRNAME
+git clone https://github.com/aibasel/downward.git downward
 ```
 
 ##### Compiling the planner
