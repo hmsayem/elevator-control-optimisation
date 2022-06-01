@@ -107,8 +107,6 @@ Double-click on a tab to rename the file.
 - `Ctrl+Alt++` will open a new editor tab.
 - `Ctrl+Alt+-` will close the current tab.
 
-The major functionality, found in the toolbar at the top of the page, is as follows:
-
 ##### File:	
 - (New) Create a new tab.
 - (Close) Close the current tab.
